@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MsNineteen
+- 👋 Hi, I’m Rearabetswe Sons 
 - 👀 I’m interested in Data Science and CyberSecurity and I am cuurently learning required programming languages to start with projects and learn all about Data Science and CyberSecurity. 
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate with people that are willing to provide tech advices, I am always willing to learn. 
