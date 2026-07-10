@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rearabetswe Sons 
-- 👀 I’m interested in Software Engineering and CyberSecurity and I am cuurently learning required programming languages to start with projects and learn all about Data Science and CyberSecurity. 
+- 👀 I’m interested in Software Engineering and CyberSecurity and I am cuurently learning required programming languages to start with projects and learn all about Software Engineering and CyberSecurity. 
 - 🌱 I’m currently majoring in Computer Science 
 - 💞️ I’m looking to collaborate with people that are willing to provide tech advices, I am always willing to learn. 
 - 📫 How to reach me on ReaSons95Work@gmail.com
